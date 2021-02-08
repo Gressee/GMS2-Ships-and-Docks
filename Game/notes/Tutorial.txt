@@ -1,0 +1,54 @@
+TUTORIAL PLAN:
+
+!!! EVERY OBJ IS A TUTORIAL OBJECT !!!
+
+	Page 1:
+		Ship: dragging not active
+		Ship: docking not active
+		Game: grid numbers not active
+
+		Go to next page: global tab (obj_tutorial)
+		
+	Page 2:
+		Ship: dragging active
+		Ship: not docking active
+		Game: grid numbers not active
+		
+		Draw Drag Hand
+		
+		Go to next page: drag and let go ship (obj_ship)
+	
+	Page 3:
+		Ship: dockig not active
+		Ship: dragging active
+		Game: grid numbers not active
+		
+		Go to next page: global tab (obj_tutorial)
+	
+	Page 4:
+		Ship: dragging active
+		Ship: docking active
+		Game: gid numebrs not active
+		
+		Go to next page: ship docked (obj_game (all ships docked))
+	
+	Page 5:
+		Ship: dragging not active
+		Ship: docking not active
+		Game: grid numbers active
+		
+		Go to next page: global tab (obj_tutorial)
+	
+	Page 6:
+		Ship: dragging active
+		Ship: docking active
+		Game: grid numbers active
+		
+	Page 7:
+		Ship: docking active
+		Ship: dragging not active
+		Game: grid numbers active
+		Game: Print congrats
+		
+		Go to level menu: golobal tab (obj_tutorial)
+		
